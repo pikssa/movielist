@@ -4,7 +4,7 @@ import {useLocation} from 'react-router-dom';
 
 const LINKS=[
 {to:'/',text:'Home'},
-{to:'/starred',text:"Starred"}
+{to:'/starred',text:"Popular"}
 ]
 
 const Navs=()=>{
